@@ -32,7 +32,7 @@ determining if they are getting closer to the number.
 
 3.  **Run the Application:**
     ```bash
-    java -jar target/nts-002-number-guessing-game-1.0-SNAPSHOT.jar
+    java -jar target/002-number-guessing-game-1.0-SNAPSHOT.jar
     ```
     
 ## 📈 Future Enhancements

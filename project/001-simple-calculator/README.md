@@ -37,7 +37,7 @@ A terminal-based calculator to allow users to do math in their terminal.
 
 3.  **Run the Application:**
     ```bash
-    java -jar target/nts-001-simple-calculator-1.0-SNAPSHOT.jar
+    java -jar target/001-simple-calculator-1.0-SNAPSHOT.jar
     ```
 
 ## 📈 Future Enhancements

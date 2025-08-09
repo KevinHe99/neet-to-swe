@@ -31,7 +31,7 @@ A terminal-based to-do list, where user can add their tasks they need to work on
 
 3.  **Run the Application:**
     ```bash
-    java -jar target/nts-003-to-do-list-1.0-SNAPSHOT.jar
+    java -jar target/003-to-do-list-1.0-SNAPSHOT.jar
     ```
 
 ## 📈 Future Enhancements
