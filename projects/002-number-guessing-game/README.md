@@ -22,7 +22,7 @@ determining if they are getting closer to the number.
 1.  **Clone the Repository:**
     ```bash
     git clone https://github.com/KevinHe99/neet-to-swe.git
-    cd project/002-number-guessing-game
+    cd projects/002-number-guessing-game
     ```
 
 2. **Build the Project:**

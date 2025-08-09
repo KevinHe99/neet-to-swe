@@ -1,20 +1,14 @@
-# Simple Calculator
-Part of a NEET to SWE program by [me](https://github.com/kevinhe99).
+# To-do List
+Part of a NEET to SWE (NTS) program by [me](https://github.com/kevinhe99).
 
 ## 🚀 Project Overview
-A terminal-based calculator to allow users to do math in their terminal.
+A terminal-based to-do list, where user can add their tasks they need to work on, onto the console.
 
-![Demonstration of the application](public/output.gif)
-
-## ✨ Features
-* Can perform basic arithmetics (add, subtract, multiply, divide) between two numbers
-* Support for floating-point (decimal) numbers 
-* Support for advanced operations (eg. power/exponents, square root)
+![Demonstration of the application]()
 
 ## 🛠️ Technologies Used
 * **Language:** Java 24
 * **Build Tool:** Maven 3.9.11
-* **Testing:** JUnit 5
 
 ## ⚙️ How to Run Locally
 
@@ -27,9 +21,9 @@ A terminal-based calculator to allow users to do math in their terminal.
 1.  **Clone the Repository:**
     ```bash
     git clone https://github.com/KevinHe99/neet-to-swe.git
-    cd project/001-simple-calculator
+    cd projects/003-to-do-list
     ```
-    
+
 2. **Build the Project:**
     ```bash
     mvnw clean install
@@ -37,12 +31,12 @@ A terminal-based calculator to allow users to do math in their terminal.
 
 3.  **Run the Application:**
     ```bash
-    java -jar target/001-simple-calculator-1.0-SNAPSHOT.jar
+    java -jar target/003-to-do-list-1.0-SNAPSHOT.jar
     ```
 
 ## 📈 Future Enhancements
-* Support for more advanced operations (eg. sine, cosine, tangent)
-* Support for unit conversions (metre -> feet, feet -> yard)
+* Support for high-scores that will be saved locally.
+* Support for GUI interface for ease-of-use and better user experience.
 
 ## 🤝 Contributing
 Contributions are welcome! If you have suggestions or find issues, please open an issue or submit a pull request.
