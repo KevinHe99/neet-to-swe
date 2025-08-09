@@ -5,7 +5,7 @@ Part of a NEET to SWE (NTS) program by [me](https://github.com/kevinhe99).
 A terminal-based game where the user guesses a computer-generated number such that they get hints
 determining if they are getting closer to the number.
 
-![Demonstration of the application](/public/output.gif)
+![Demonstration of the application](public/output.gif)
 
 ## 🛠️ Technologies Used
 * **Language:** Java 24
@@ -21,8 +21,8 @@ determining if they are getting closer to the number.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/KevinHe99/nts-002-number-guessing-game.git
-    cd nts-002-number-guessing-game
+    git clone https://github.com/KevinHe99/neet-to-swe.git
+    cd project/002-number-guessing-game
     ```
 
 2. **Build the Project:**

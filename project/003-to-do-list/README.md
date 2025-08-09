@@ -20,8 +20,8 @@ A terminal-based to-do list, where user can add their tasks they need to work on
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/KevinHe99/nts-003-to-do-list.git
-    cd nts-003-to-do-list
+    git clone https://github.com/KevinHe99/neet-to-swe.git
+    cd project/003-to-do-list
     ```
 
 2. **Build the Project:**

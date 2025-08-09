@@ -4,7 +4,7 @@ Part of a NEET to SWE program by [me](https://github.com/kevinhe99).
 ## 🚀 Project Overview
 A terminal-based calculator to allow users to do math in their terminal.
 
-![Demonstration of the application](/public/output.gif)
+![Demonstration of the application](public/output.gif)
 
 ## ✨ Features
 * Can perform basic arithmetics (add, subtract, multiply, divide) between two numbers
@@ -26,8 +26,8 @@ A terminal-based calculator to allow users to do math in their terminal.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/KevinHe99/nts-001-simple-calculator.git
-    cd nts-001-simple-calculator
+    git clone https://github.com/KevinHe99/neet-to-swe.git
+    cd project/001-simple-calculator
     ```
     
 2. **Build the Project:**
